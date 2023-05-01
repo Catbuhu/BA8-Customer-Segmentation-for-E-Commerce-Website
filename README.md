@@ -1,1 +1,1 @@
-# IS-team-8-Customer-Segmentation-for-E-Commerce-Website
+# BA8-Customer-Segmentation-for-E-Commerce-Website
